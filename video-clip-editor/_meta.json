@@ -1,0 +1,9 @@
+{
+  "id": "101",
+  "version": "1.1.0",
+  "author": "MiniMax Agent",
+  "description": "E-commerce short video AIGC editing expert. Processes SRT subtitles to generate 80-second high-conversion scripts and FFmpeg editing code.",
+  "tags": ["ecommerce", "short-video", "AIGC", "FFmpeg", "douyin-marketing", "SRT-editing"],
+  "created_at": "2026-04-07",
+  "updated_at": "2026-04-08"
+}
